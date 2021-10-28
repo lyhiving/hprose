@@ -4,7 +4,7 @@
     <img src="https://promisesaplus.com/assets/logo-small.png" alt="Promises/A+ logo" title="Promises/A+ 1.1 compliant" align="right" />
 </a>
 
-# Hprose for PHP
+# Hprose 3.0 for PHP
 
 [![Build Status](https://travis-ci.org/hprose/hprose-php.svg?branch=master)](https://travis-ci.org/hprose/hprose-php)
 [![Join the chat at https://gitter.im/hprose/hprose-php](https://img.shields.io/badge/GITTER-join%20chat-green.svg)](https://gitter.im/hprose/hprose-php?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -18,6 +18,7 @@
 *Hprose* 是高性能远程对象服务引擎（High Performance Remote Object Service Engine）的缩写。
 
 它是一个先进的轻量级的跨语言跨平台面向对象的高性能远程动态通讯中间件。它不仅简单易用，而且功能强大。你只需要稍许的时间去学习，就能用它轻松构建跨语言跨平台的分布式应用系统了。
+试下不需要pecl
 
 *Hprose* 支持众多编程语言，例如：
 
