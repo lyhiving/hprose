@@ -43,4 +43,4 @@
 
 本项目是 Hprose 的 PHP 语言版本实现。
 
-Hprose 2.0 for PHP 文档: https://github.com/hprose/hprose-php/wiki
+Hprose 3.0 for PHP 文档: https://github.com/hprose/hprose-php/wiki

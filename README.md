@@ -43,4 +43,4 @@ Through *Hprose*, You can conveniently and efficiently intercommunicate between 
 
 This project is the implementation of Hprose for PHP.
 
-Hprose 2.0 for PHP Documents: https://github.com/hprose/hprose-php/wiki
+Hprose 3.0 for PHP Documents: https://github.com/hprose/hprose-php/wiki
